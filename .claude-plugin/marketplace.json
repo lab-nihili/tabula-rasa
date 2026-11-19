@@ -1,0 +1,11 @@
+{
+  "name": "laboratorium-nihili",
+  "owner": { "name": "Laboratorium Nihili" },
+  "plugins": [
+    {
+      "name": "tabula-rasa",
+      "source": "./claude-plugin",
+      "description": "Crée et maintient une carte mentale Tabula Rasa (.tabula) à partir de n'importe quel projet ou discussion. / Creates and maintains a Tabula Rasa mind map (.tabula) from any project or conversation."
+    }
+  ]
+}

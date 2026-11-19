@@ -1,0 +1,87 @@
+TABULA RASA — LICENCE D'UTILISATION / END USER LICENSE AGREEMENT
+© 2027 Laboratorium Nihili. Tous droits réservés / All rights reserved.
+
+Version 1.0 — s'applique à Tabula Rasa 0.2.0 et aux versions suivantes, sauf mention contraire.
+Version 1.0 — applies to Tabula Rasa 0.2.0 and later versions, unless stated otherwise.
+
+En cas de divergence, la version française prévaut pour les utilisateurs soumis au droit français ; la version anglaise prévaut dans les autres cas.
+In case of discrepancy, the French version prevails for users subject to French law; the English version prevails in all other cases.
+
+======================================================================
+FRANÇAIS
+======================================================================
+
+1. Définitions
+   « Logiciel » : l'application Tabula Rasa (exécutable, bibliothèques et ressources livrés avec lui), dans toutes ses versions.
+   « Concédant » : Laboratorium Nihili, titulaire des droits sur le Logiciel.
+   « Vous » : toute personne physique ou morale qui télécharge, installe ou utilise le Logiciel.
+
+2. Propriété
+   Le Logiciel et son code source sont et restent la propriété exclusive du Concédant. Le code source n'est pas publié et n'est pas couvert par la présente licence. Aucun droit sur le code source ne Vous est concédé. Le Logiciel Vous est concédé sous licence, il ne Vous est pas vendu.
+
+3. Licence d'utilisation gratuite
+   Le Concédant Vous accorde, à titre gratuit, une licence personnelle, mondiale, non exclusive, non transférable et sans limite de durée, pour installer et utiliser le Logiciel sur un nombre illimité d'appareils, à toute fin, y compris professionnelle et commerciale, au sein de Votre organisation. Aucune redevance n'est due.
+
+4. Redistribution
+   Vous pouvez copier et transmettre l'exécutable du Logiciel à des tiers, gratuitement, à condition de le transmettre intact et complet (avec le présent fichier et le fichier THIRD-PARTY-NOTICES) et sans le modifier. Vous ne pouvez pas le vendre, le louer, le prêter contre rémunération, ni l'inclure dans une offre payante ou un produit tiers sans l'accord écrit préalable du Concédant. La diffusion officielle est assurée par le Concédant.
+
+5. Restrictions
+   Sauf dans la mesure où la loi applicable l'autorise impérativement malgré toute clause contraire (notamment les droits prévus à l'article L122-6-1 du Code de la propriété intellectuelle), Vous ne devez pas : (a) modifier, adapter, traduire ou créer des œuvres dérivées du Logiciel ; (b) décompiler, désassembler ou tenter d'obtenir le code source du Logiciel ; (c) retirer ou altérer les mentions de droits d'auteur, de marque ou de licence ; (d) utiliser le Logiciel pour porter atteinte à la loi ou aux droits de tiers.
+
+6. Vos contenus
+   Les fichiers que Vous créez avec le Logiciel (cartes .tabula, exports Markdown, SVG, pages d'impression, etc.) Vous appartiennent. Le Concédant ne revendique aucun droit sur Vos contenus, ne les collecte pas et ne les transmet à personne : ils restent sur Votre appareil.
+
+7. Composants tiers
+   Le Logiciel intègre des composants libres, soumis à leurs propres licences, listées dans le fichier THIRD-PARTY-NOTICES. Rien dans la présente licence ne restreint les droits que ces licences Vous accordent sur ces composants.
+
+8. Absence de garantie
+   Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou implicite, notamment de qualité marchande, d'adéquation à un usage particulier, d'absence d'erreur ou de non-contrefaçon. Il Vous appartient de sauvegarder Vos fichiers.
+
+9. Limitation de responsabilité
+   Dans toute la mesure permise par la loi, le Concédant n'est responsable d'aucun dommage indirect, perte de données, de profits ou d'exploitation découlant de l'utilisation ou de l'impossibilité d'utiliser le Logiciel. Cette limitation ne s'applique pas à la responsabilité qui ne peut être exclue ou limitée par la loi (dol, faute lourde, dommages corporels).
+
+10. Durée et résiliation
+    La licence est valable tant que Vous respectez ses termes. Tout manquement la résilie de plein droit ; Vous devez alors cesser d'utiliser le Logiciel et en supprimer toutes les copies. Le Concédant peut cesser de distribuer ou de mettre à jour le Logiciel à tout moment ; les copies déjà obtenues restent utilisables selon la présente licence.
+
+11. Divers
+    Si une clause est invalide, les autres restent en vigueur. La présente licence est régie par le droit français. Tout litige relève des tribunaux français compétents, sans préjudice des règles impératives protégeant les consommateurs de leur pays de résidence.
+
+======================================================================
+ENGLISH
+======================================================================
+
+1. Definitions
+   "Software": the Tabula Rasa application (executable, libraries and resources delivered with it), in all versions.
+   "Licensor": Laboratorium Nihili, holder of the rights in the Software.
+   "You": any natural person or legal entity that downloads, installs or uses the Software.
+
+2. Ownership
+   The Software and its source code are and remain the exclusive property of the Licensor. The source code is not published and is not covered by this license. No rights in the source code are granted to You. The Software is licensed, not sold.
+
+3. Free license to use
+   The Licensor grants You, free of charge, a personal, worldwide, non-exclusive, non-transferable license, without time limit, to install and use the Software on an unlimited number of devices, for any purpose, including professional and commercial purposes, within Your organization. No fee is due.
+
+4. Redistribution
+   You may copy and pass on the executable of the Software to third parties, free of charge, provided it is passed on intact and complete (with this file and the THIRD-PARTY-NOTICES file) and unmodified. You may not sell, rent, or lease it, nor bundle it in a paid offering or third-party product, without the Licensor's prior written consent. Official distribution is provided by the Licensor.
+
+5. Restrictions
+   Except to the extent that applicable law mandatorily permits it despite any contrary provision, You must not: (a) modify, adapt, translate or create derivative works of the Software; (b) decompile, disassemble or attempt to obtain the source code of the Software; (c) remove or alter copyright, trademark or license notices; (d) use the Software to violate any law or third-party rights.
+
+6. Your content
+   Files You create with the Software (.tabula maps, Markdown and SVG exports, print pages, etc.) belong to You. The Licensor claims no rights in Your content, does not collect it and does not transmit it to anyone: it stays on Your device.
+
+7. Third-party components
+   The Software includes open-source components, subject to their own licenses, listed in the THIRD-PARTY-NOTICES file. Nothing in this license restricts the rights those licenses grant You in those components.
+
+8. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ABSENCE OF ERRORS OR NON-INFRINGEMENT. You are responsible for backing up Your files.
+
+9. Limitation of liability
+   TO THE FULLEST EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT DAMAGES, LOSS OF DATA, PROFITS OR BUSINESS ARISING FROM THE USE OF, OR INABILITY TO USE, THE SOFTWARE. This limitation does not apply to liability that cannot be excluded or limited by law (wilful misconduct, gross negligence, personal injury).
+
+10. Term and termination
+    The license is valid as long as You comply with its terms. Any breach terminates it automatically; You must then stop using the Software and delete all copies. The Licensor may stop distributing or updating the Software at any time; copies already obtained remain usable under this license.
+
+11. Miscellaneous
+    If any provision is invalid, the others remain in force. This license is governed by French law. Any dispute falls under the competent French courts, without prejudice to mandatory rules protecting consumers in their country of residence.
+
