@@ -1,0 +1,3 @@
+# Tabula Rasa est écrit en Rust, mais son code source n'est pas publié ici.
+# Le seul code de ce dépôt est un petit script du plugin Claude : on l'exclut des statistiques de langages.
+claude-plugin/scripts/** linguist-vendored
