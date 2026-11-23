@@ -53,7 +53,7 @@ Puis tapez `/carte`.
 
 Tabula Rasa est un logiciel propriétaire, **gratuit pour tout usage, y compris professionnel**. Le code source n'est pas publié. Voir [LICENSE](LICENSE) (FR/EN) et [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) pour les composants libres utilisés.
 
-© 2027 Laboratorium Nihili
+© 2026 Laboratorium Nihili
 
 ---
 
@@ -110,4 +110,4 @@ Then type `/carte`.
 
 Tabula Rasa is proprietary software, **free for any use, including professional use**. The source code is not published. See [LICENSE](LICENSE) (FR/EN) and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the open-source components used.
 
-© 2027 Laboratorium Nihili
+© 2026 Laboratorium Nihili
